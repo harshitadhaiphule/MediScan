@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/nav_patients" android:title="Patients" android:icon="@drawable/ic_action_people"
+    android:textColor="@color/black"/>
+<item android:id="@+id/nav_doctor_info" android:title="Doctor Info" android:icon="@drawable/ic_action_info"
+    android:textColor="@color/black"/>
+<item android:id="@+id/nav_hospital_info" android:title="Hospital Info" android:icon="@drawable/ic_action_hospital"
+    android:textColor="@color/black"/>
+<item android:id="@+id/nav_add_patient" android:title="Add Patient" android:icon="@drawable/ic_action_add"
+    android:textColor="@color/black"/>
+<item android:id="@+id/nav_settings" android:title="Settings" android:icon="@drawable/ic_action_settings"
+    android:textColor="@color/black"/>
+</menu>
